@@ -44,3 +44,5 @@ This project taught me a lot and I can not believe that I could learn python, st
 
 In the end, I'd like to express my huge thanks to all of the organizers and TA's, especially Yu-Shiang without whom I could never have finished my poject, and Dr.Josh and Dr. Lee, who hosted such as amazing program at National Taiwan University.
 
+## References
+[Wang, S., Zhang, Y., Zhang, X., Sun, J., Lin, N., Zhang, J., & Zong, C. (2022). An fMRI Dataset for Concept Representation with Semantic Feature Annotations. Scientific data, 9(1), 721.](https://doi.org/10.1038/s41597-022-01840-2)
